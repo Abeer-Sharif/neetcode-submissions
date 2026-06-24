@@ -67,7 +67,6 @@ This repository is continuously updated as I solve more problems from the NeetCo
 
 The main goal of this repository is to build a strong foundation in algorithms and data structures while maintaining a structured record of solved problems and learned patterns.
 
----
 ## Author
 
 Abeer Sharif
